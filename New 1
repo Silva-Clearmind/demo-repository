@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ClearMind</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f4f8;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.5em;
+    }
+    p {
+      font-size: 1.2em;
+    }
+    .button {
+      margin-top: 2em;
+      padding: 12px 24px;
+      background: #5e60ce;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 1em;
+    }
+    .button:hover {
+      background: #4e50b6;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to ClearMind</h1>
+  <p>Your journey to peace, insight, and personal growth starts here.</p>
+  <a href="https://github.com/Silva-Clearmind/demo-repository" class="button">View on GitHub</a>
+</body>
+</html>
